@@ -72,7 +72,7 @@ To successfully program and operate the wall-following robot, you will need the 
 
 ## Circuit Diagram
 
-![Circuit Diagram](https://asset.cloudinary.com/dgh1xymuz/367048c579a78ba93c9c11c34f3d2a4d)
+<img src="https://asset.cloudinary.com/dgh1xymuz/367048c579a78ba93c9c11c34f3d2a4d" alt="Circuit Diagram" width="600"/>
 - **Ultrasonic Sensors:**
   - Left Sensor: Trig (A3), Echo (A0)
   - Front Sensor: Trig (A4), Echo (A1)
