@@ -1,8 +1,5 @@
 # Rat in a Maze
 
-
-# Rat in a Maze
-
 This project implements a wall-following robot using ultrasonic sensors and PID control for precise navigation. The robot can autonomously follow walls on either side and handle turns based on sensor input.
 
 
